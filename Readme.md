@@ -5,6 +5,6 @@
 * CSS-Grid Layouts and all of its properties
 * Media queries to change the grid layouts for different screen sizes
 * Used some grid methods to adopt layouts according to screen widths without using media queries
-* centering pictures in a grid
+* Centering pictures in a grid
 * Used Flexbox along with grids
 * CSS architecture: component-based design, BEM, writing reusable code, etc.
